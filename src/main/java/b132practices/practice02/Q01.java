@@ -1,7 +1,5 @@
 package b132practices.practice02;
 
-import static jdk.nashorn.internal.objects.NativeString.trim;
-
 public class Q01 {
     public static void main(String[] args) {
         //Type code to check if a String does not have any space character at the beginning and at the end
