@@ -1,0 +1,10 @@
+1-C
+2-CD
+3-AC
+4-BCD
+5-D
+6-D
+7-BCD
+8-AC ->A
+9-ABC
+10-ABC
