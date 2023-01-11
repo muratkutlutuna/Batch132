@@ -1,2 +1,10 @@
-1-D
-2-
+1-D -> CD -> understood
+2-AD
+3-B
+4-BCD -> ABCD -> understood
+5-D
+6-ABC
+7-A
+8-A
+9-A
+10-C

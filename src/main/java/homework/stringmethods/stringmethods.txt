@@ -1,0 +1,21 @@
+1-AB
+2-BCD
+3-BC
+4-C
+5-B
+6-B
+7-D
+8-ABC
+9-B
+10-BD
+11-D
+12-BD
+13-BC -> BCD -> understood
+14-B
+15-ABD
+16-AB -> ABCD -> ABD understood but C is complicated
+17-BC -> BCD -> understood
+18-B
+19-B
+20-BD
+21-B
