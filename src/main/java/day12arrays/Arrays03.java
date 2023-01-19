@@ -22,5 +22,19 @@ public class Arrays03 {
 
         System.out.println(counter);
 
+        //Create new array to store the elements whose lengths are greater than or equal to 5
+        String newArray[] = new String[counter];
+
+        //Transfer the element whose lenths are greater than or equal to 5 to the newArray
+        int idx = 0;
+
+        for (String w : colors) {
+            if (w.length() >= 5) {
+                newArray[idx] = w;
+                idx++;
+            }
+        }
+
+
     }
 }
