@@ -9,7 +9,13 @@
 +src/main/java/day09forloops/ForLoops01.java,3/9/397d077c0a75f8f70937ba43ab8af99c8d342b44
 [
 +src/main/java/day09forloops/ForLoops02.java,7/f/7f37b0360646cb79785b07fa5dc6ca781b1bdf25
-i
-9src/main/java/b132practices/practise03nt/Q01_Ternary.java,9/2/924ec69d0baacbf89bc7ccc8b64278298374dff7
-h
-8src/main/java/b132practices/practise03nt/Q02_Switch.java,0/2/02743e9805657c3acb47c4ffadfa4dc99d8d981c
+Y
+)src/main/java/day10forloop/ForLoop01.java,d/2/d26a60dea7d8efa32acfbdee29fa251cc3d57287
+Y
+)src/main/java/day10forloop/ForLoop02.java,8/2/82221bb65d5b89c5d2d7a21da55bcb70db9bc5cf
+_
+/src/main/java/day10forloop/NestedForLoop01.java,6/2/625e5f098c3c5887b5128d0c067d36e31b3ebdd9
+w
+Gsrc/main/java/day11nestedforloopwhileloopdowhileloop/NestedForLoop.java,d/a/dad8624bf8aefab73b621386172cb4d1f08fa138
+u
+Esrc/main/java/day11nestedforloopwhileloopdowhileloop/WhileLoop01.java,a/9/a9da2e957e950e8faf8080a58a7769d3823f8762

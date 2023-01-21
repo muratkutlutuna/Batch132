@@ -1,4 +1,4 @@
-package b132practices.practise03nt;
+package b132practices.practice03nt;
 
 public class Q01_Ternary {
 

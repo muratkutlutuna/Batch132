@@ -1,4 +1,4 @@
-package b132practices.practise03nt;
+package b132practices.practice03nt;
 
 public class Q04 {
     public static void main(String[] args) {

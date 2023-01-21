@@ -1,4 +1,4 @@
-package b132practices.practise03nt;
+package b132practices.practice03nt;
 
 import java.util.Scanner;
 
