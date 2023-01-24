@@ -1,0 +1,25 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í÷“ø
+M
+java:S1854"7Remove this useless assignment to local variable "str".(€˜¾ß
+M
+java:S1854"7Remove this useless assignment to local variable "num".(«ØÔ²
+>
+java:S1481"(Remove this unused "num" local variable.(«ØÔ²
+>
+java:S1481"(Remove this unused "str" local variable.(€˜¾ß
+@
+java:S1197"*Move the array designators [] to the type.(­ÒÇ›
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éıÇÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜“¢èüÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ºëñÕ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¹´ÿÏüÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(áÍ‹…ÿÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¸·Àùÿÿÿÿ
+E
+java:S11973"*Move the array designators [] to the type.(å•À‡ûÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ä¦‰Êşÿÿÿÿ
+@
+java:S1197A"*Move the array designators [] to the type.(Î¿‰·
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(‚¬Ïşÿÿÿÿ
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(‰ÆÇÜ8à‡²·Ü0
