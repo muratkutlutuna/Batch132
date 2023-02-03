@@ -1,6 +1,7 @@
 package day14multidimensionalarraysarraylists;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class ArrayLists01 {
@@ -66,9 +67,43 @@ public class ArrayLists01 {
         boolean r1 = ages.contains(44);
         System.out.println("r1 = " + r1);
 
+
+        //ages.containsAll(prices); if all prices list elements exists in ages list, Java returns true otherwise returns false
         boolean r2 = ages.containsAll(prices);
         System.out.println("r2 = " + r2);
 
+        //How to check if two lists are same or not
+        List<String>names1 = new ArrayList<String>();
+        names1.add("Tom");
+        names1.add("Angie");
+        names1.add("Mark");
+
+        List<String>names2 = new ArrayList<String>();
+        names2.add("Tom");
+        names2.add("Angie");
+        names2.add("Mark");
+
+        boolean r3 = names1.equals(names2);
+        System.out.println(r3);//true
+
+        //Example 1: Type code to check if two lists have same elements.
+        //           Same elements can be in different indexes.
+        //           [A,B,C] and [A,B,C] and [B,A,C] etc. ==> true
+        List<Character>m=new ArrayList<>();
+        m.add('A');
+        m.add('B');
+        m.add('C');
+
+        List<Character>n=new ArrayList<>();
+        n.add('A');
+        n.add('B');
+        n.add('C');
+
+        Collections.sort(m);
+        Collections.sort(n);
+
+        boolean r4 = m.equals(n);
+        System.out.println(r4);
 
     }
 }
