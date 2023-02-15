@@ -1,4 +1,4 @@
-package day21inheritanceoverriding;
+package day21inheritance;
 
 public class VehicleRunner {
     public static void main(String[] args) {

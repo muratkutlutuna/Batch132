@@ -1,4 +1,4 @@
-package day21inheritanceoverriding;
+package day21inheritance;
 
 /*
     1)Every Class exceptObject Class has Parent Class in Java
