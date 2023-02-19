@@ -1,0 +1,50 @@
+package day27enumexceptions;
+
+public class E01 {
+
+    /*
+        1)Exception means "un-expected issue" in coding
+        2)When we have Exception we have two ways
+            i)We can handle the Exception by using "try-catch block"
+            ii)We "Throw Exception' and block the application
+        3)We handle the Exception mostly, if you do not handle the Exception
+            i)Execution will be stopped
+            ii)Application will be blocked
+     */
+
+    public static void main(String[] args) {
+
+        System.out.println(divide(6, 5));// No Exception
+        System.out.println(divide(0, 5));// No Exception
+        System.out.println(divide(6, 0)); //ArithmeticException ==> / by zero
+        System.out.println("Hi this is me!");//divide(6,0)threw AritmethicException that is why this code cannot be executed
+
+        System.out.println(divide2(8,0));
+        System.out.println(divide2(8,2));
+    }
+
+    //Example 1: Create a method divides two integers
+
+    //1.Way: Use if-else but using if-else is not recommended
+    public static int divide(int a, int b) {
+        if (b == 0) {
+            return 0;
+        } else {
+            return a / b;
+        }
+    }
+
+    //2.Way: Use try-catch
+    public static int divide2(int a, int b) {
+        int result = 0;
+
+        try {
+            result = a / b;
+            System.out.println("Hi Shamsi...");//This code will not be executed
+        } catch (ArithmeticException e) {// "catch block" executed just for Exceptions, if "try block" does not throw any Exception
+                                         // "catch block" will not be executed
+            System.out.println("Do not use zero divisor....");
+        }
+        return result;
+    }
+}
