@@ -18,6 +18,7 @@ public class E01 {
         System.out.println(divide(0, 5));// No Exception
         System.out.println(divide(6, 0)); //ArithmeticException ==> / by zero
         System.out.println("Hi this is me!");//divide(6,0)threw AritmethicException that is why this code cannot be executed
+                                             //When you break any mathematical rule like dividing by zero, Java throws AritmethicException
 
         System.out.println(divide2(8,0));
         System.out.println(divide2(8,2));
