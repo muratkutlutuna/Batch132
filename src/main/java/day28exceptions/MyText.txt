@@ -1,0 +1,6 @@
+Java is OOP
+OOP has four principles;
+1)Interface
+2)Polymorphism
+3)Encapsulation
+4)Abstraction
