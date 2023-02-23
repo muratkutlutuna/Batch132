@@ -1,0 +1,9 @@
+
+r
+java:S1104"WMake no_of_tires a static final constant or non-public and provide accessors if needed.(…õÚÓşÿÿÿÿ
+o
+java:S1104"TMake bodyType a static final constant or non-public and provide accessors if needed.(‘¨¼âúÿÿÿÿ
+p	java:S116"VRename this field "no_of_tires" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…õÚÓşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ØØñÄıÿÿÿÿ
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(ƒ•

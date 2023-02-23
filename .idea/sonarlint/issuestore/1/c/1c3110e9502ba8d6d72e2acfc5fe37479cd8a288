@@ -1,0 +1,16 @@
+
+j
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(‚ƒĞ¿ûÿÿÿÿ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(ê¸€¬
+e
+java:S1104"OMake old a static final constant or non-public and provide accessors if needed.(áï
+c
+java:S1104"MMake x a static final constant or non-public and provide accessors if needed.(ÁÛËÖ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àùíß
+K
+java:S2387")"age" is the name of a field in "Mammal".(‚ƒĞ¿ûÿÿÿÿ8˜€ä´å0
+G
+java:S2387"*"name" is the name of a field in "Animal".(ê¸€¬8˜€ä´å0
+F
+java:S2387")"old" is the name of a field in "Mammal".(áï8˜€ä´å0

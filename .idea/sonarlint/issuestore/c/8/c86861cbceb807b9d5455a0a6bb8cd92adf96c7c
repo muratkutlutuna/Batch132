@@ -1,0 +1,27 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É–ãûÿÿÿÿ
+[
+java:S2259$"EA "NullPointerException" could be thrown; "pattern" is nullable here.(üŞëÖ
+K
+java:S6035"0Replace this alternation with a character class.(ÑÏİÿÿÿÿÿ
+K
+java:S6035"0Replace this alternation with a character class.(ÑÏİÿÿÿÿÿ
+K
+java:S6035"0Replace this alternation with a character class.(ÑÏİÿÿÿÿÿ
+K
+java:S6035"0Replace this alternation with a character class.(ÑÏİÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(•ïùÅ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(üŞëÖ
+K
+java:S6035'"0Replace this alternation with a character class.(ÑÏİÿÿÿÿÿ
+K
+java:S6035'"0Replace this alternation with a character class.(ÑÏİÿÿÿÿÿ
+K
+java:S6035'"0Replace this alternation with a character class.(ÑÏİÿÿÿÿÿ
+K
+java:S6035'"0Replace this alternation with a character class.(ÑÏİÿÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(•ïùÅ

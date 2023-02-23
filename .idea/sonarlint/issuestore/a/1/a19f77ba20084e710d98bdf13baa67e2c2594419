@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àóƒ˜øÿÿÿÿ
+7
+java:S1170-"!Make this final field static too.(‚¢œÙ
+T
+java:S34008"9Remove this method and declare a constant for this value.(ï°¦×ûÿÿÿÿ
+O
+java:S3400<"9Remove this method and declare a constant for this value.(‡ßÁÓ

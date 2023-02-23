@@ -1,0 +1,12 @@
+
+m
+java:S1192 "RDefine a constant instead of duplicating this literal "sb2.capacity() = " 3 times.(›£Øõüÿÿÿÿ
+k
+java:S1192"PDefine a constant instead of duplicating this literal "sb2.length() = " 3 times.(²Í‹„şÿÿÿÿ
+_
+java:S1192"JDefine a constant instead of duplicating this literal "length = " 3 times.(×™¬G
+b
+java:S1192"LDefine a constant instead of duplicating this literal "capacity = " 3 times.(ÏêÄ×
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“”êÖÿÿÿÿÿ
+z
+java:S1149+"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«Äâüÿÿÿÿ

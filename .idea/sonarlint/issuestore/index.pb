@@ -47,8 +47,6 @@ P
  src/main/java/selfstudy/Car.java,d/c/dc617eb76b1f2b6b3f204bbc00d9c779711e3e6a
 V
 &src/main/java/selfstudy/Scratch01.java,0/7/078535962fc30cb3b95bf56430d48d021a4089c5
-U
-%src/main/java/selfstudy/Solution.java,0/0/0053acd8cc8a2ff348e2945883a302e546e4e2bf
 u
 Esrc/main/java/day14multidimensionalarraysarraylists/ArrayLists01.java,5/3/53d31b64a828104ef576a618173fe196a756ae16
 j
