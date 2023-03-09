@@ -425,15 +425,5 @@ g
 7src/main/java/homework/stringmethods/StringMethods.java,c/b/cba3bd7239854b836b92d189916e242fb84d63d0
 f
 6src/main/java/homework/stringmethods/stringmethods.txt,5/5/559738639bc4693b1f4724eba0126b14528bd783
-a
-1src/main/java/day30mapsstaticblock/HashMap01.java,8/9/89beb1b3994e4eed6dc9475317154a750fed5282
-a
-1src/main/java/day30mapsstaticblock/HashMap02.java,6/5/65125d4908ce84ff20faa140ee4a4bce86346047
-h
-8src/main/java/day30mapsstaticblock/HashMapMechanism.java,f/7/f7bdbe242c1408c4fcfbf34a292b8e5c0d5069e1
-c
-3src/main/java/day30mapsstaticblock/HashTable01.java,1/4/1464f815934d473c32a62e36dc9988c36b060a2b
-e
-5src/main/java/day30mapsstaticblock/StaticBlock01.java,0/0/0019b5867c9ecf2892e1077efc75cf2dac8960d4
-d
-4src/main/java/day30mapsstaticblock/StaticRunner.java,4/c/4c24693fdba2b5db3751a9464992b6467a8facd6
+V
+&src/main/java/day31lambda/Lamda01.java,8/2/82aa95500bef572a857fea895f943a5b3ecf3f71
